@@ -60,9 +60,9 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{mastersir-lab}/count.svg" alt="mastersir-lab :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<!-- <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastersir-lab&langs_count=10&theme=tokyonight&layout=compact" alt="mastersir-lab :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastersir-lab&langs_count=10&theme=tokyonight&layout=compact" alt="mastersir-lab :: Top Langs" /></p> -->
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
