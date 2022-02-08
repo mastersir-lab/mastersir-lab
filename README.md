@@ -5,7 +5,7 @@
 
 - 🚀 A white hat hacker who yearns for any door!
 - 🌱 A North drifter who fishes in troubled waters every day!
-- 💬 Ask me about Python, PHP and my projects on [2385523621@qq.com](mailto:2385523621@qq.com)
+- 💬 I look forward to discussing technology with you!
 - ⭐ If you like making friends, then I'm glad to meet you!
 - ⚡  I compare dishes, please be kind!
 
