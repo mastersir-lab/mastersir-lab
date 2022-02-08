@@ -3,11 +3,11 @@
 <h2 align="center">About me</h2>
 
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+- 🚀 A white hat hacker who yearns for any door!
+- 🌱 A North drifter who fishes in troubled waters every day!
+- 💬 Ask me about Python, PHP and my projects on [2385523621@qq.com](mailto:2385523621@qq.com)
+- ⭐ If you like making friends, then I'm glad to meet you!
+- ⚡  I compare dishes, please be kind!
 
 <h2 align="center">You can reach me at :alien:</h2>
 
