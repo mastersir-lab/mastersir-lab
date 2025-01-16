@@ -32,13 +32,6 @@
     <img src="https://github.com/AntSwordProject/antSword/blob/master/static/imgs/logo.png" height="30" width="30">
   </a>
   
-  <a href="#">
-    <img src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" height="30" width="30">
-  </a>
-  
-  <a href="#">
-    <img src="https://zh-cn.tenable.com/sites/all/themes/tenablefourteen/img/favicons/safari-pinned-tab.svg" height="30" width="30">
-  </a>
   
   <a href="#">
     <img src="https://www.acunetix.com/wp-content/themes/acunetix/ico/favicon.png" height="30" width="30">
